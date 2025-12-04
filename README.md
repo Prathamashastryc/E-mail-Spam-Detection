@@ -50,7 +50,8 @@ Prathama Shastry C — NNM24IS168
 
 Pavan Poojary — NNM24IS149
 
-Pavan Kumar — NNM24IS160
+Pavan Kumar — NNM24IS150
+
 
 Prathwik Shetty — NNM24IS171
 
