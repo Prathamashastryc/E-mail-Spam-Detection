@@ -46,7 +46,7 @@ Matplotlib,
 
 <b>👨‍💻 Team Members:</b>
 
-Prathama Shastry C — NNM24IS168
+Prathama Shastry C — NNM24IS168&clg acc
 
 Pavan Poojary — NNM24IS149
 
