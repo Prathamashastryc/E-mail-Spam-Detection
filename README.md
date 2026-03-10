@@ -57,4 +57,4 @@ Prathwik Shetty — NNM24IS171
 
 Department of Information Science and Engineering
 NMAM Institute of Technology, Nitte
-Nitte (Deemed to be University), Karnataka, India
+Nitte, Karnataka, India
